@@ -9,4 +9,4 @@ EventLogPersist 是一个对Windows事件日志中“隐藏”的Shellcode进行
 而EventLogPersistB则是一段Python脚本，功能和上者差不多。执行：
 ![EventLogPersistB](images/EventLogPersistB.png)
 
-图中例子的情况请见：
+图中例子的情况请见：https://mp.weixin.qq.com/s/ggB_XarThtTA_tI44k054w
